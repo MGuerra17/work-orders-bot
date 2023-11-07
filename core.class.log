@@ -1,0 +1,2538 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FE2EA63A692CEC94F8',
+    participant: undefined
+  },
+  messageTimestamp: 1699385944,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Listo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Listo',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04C6439EF0BBBAD7041',
+    participant: undefined
+  },
+  messageTimestamp: 1699385946,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B3B25C47E1A3A5FE21',
+    participant: undefined
+  },
+  messageTimestamp: 1699385969,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orden',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB014D973E6B5C15CC1A4',
+    participant: undefined
+  },
+  messageTimestamp: 1699385987,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'TAREA 📝 #1⚡\n' +
+        '\n' +
+        'FECHA:07/11/2023\n' +
+        '\n' +
+        'REPORTE: revisar circuito de monitor pala 6249\n' +
+        'HALLAZGOS: equipo por clima con jumper hecho en la caja de monitor en el tambor ñ.\n' +
+        'SOLUCION:  se retira jumper se normalizo circuito en caja del tambor, se independizaron tierras, se pasó el jumper para caja del cable cola para seguir haciéndole seguimiento a la falla del circuito.\n' +
+        'HORA INICIO:  08:00am\n' +
+        'HORA FINAL : 10:30am\n' +
+        'ORDEN: cerrada \n' +
+        '\n' +
+        'TECNICOS:  Elmer A/ Jamir R.',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA 📝 #1⚡\n' +
+    '\n' +
+    'FECHA:07/11/2023\n' +
+    '\n' +
+    'REPORTE: revisar circuito de monitor pala 6249\n' +
+    'HALLAZGOS: equipo por clima con jumper hecho en la caja de monitor en el tambor ñ.\n' +
+    'SOLUCION:  se retira jumper se normalizo circuito en caja del tambor, se independizaron tierras, se pasó el jumper para caja del cable cola para seguir haciéndole seguimiento a la falla del circuito.\n' +
+    'HORA INICIO:  08:00am\n' +
+    'HORA FINAL : 10:30am\n' +
+    'ORDEN: cerrada \n' +
+    '\n' +
+    'TECNICOS:  Elmer A/ Jamir R.',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '62B317349E06944B1C4149B6960A2AC5',
+    participant: undefined
+  },
+  messageTimestamp: 1699386032,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19378988_1105882010311572_4712278084920509_n.enc?ccb=11-4&oh=01_AdT6rVeqe9f7t60pO04NsF-I-bbJkslYG1AxXZc50ICQaQ&oe=6571F27B&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 60,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19378988_1105882010311572_4712278084920509_n.enc?ccb=11-4&oh=01_AdT6rVeqe9f7t60pO04NsF-I-bbJkslYG1AxXZc50ICQaQ&oe=6571F27B&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__4ceff950-580d-4e14-8673-e6e0e0f04372',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00AC9469CFC5DAF5B1B',
+    participant: undefined
+  },
+  messageTimestamp: 1699386162,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-3e14b726-49fa-43af-b6a8-722b8592a56f?ccb=9-4&oh=01_AdTCbd59HhTc1xm2d1O-FSBJXzScp4-4MyjkHxeoUhxdxg&oe=657204EC&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Arajoooo jajjajajajajaj',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 501,
+      width: 536,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m269/up-oil-image-3e14b726-49fa-43af-b6a8-722b8592a56f?ccb=9-4&oh=01_AdTCbd59HhTc1xm2d1O-FSBJXzScp4-4MyjkHxeoUhxdxg&oe=657204EC&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__ae90977a-91ba-49cb-ac80-51ada86664a2',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '64C937339D3C4BCAF9BFC0889A38B317',
+    participant: undefined
+  },
+  messageTimestamp: 1699386215,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya tenemos excusa para no sentirnos tan mal',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya tenemos excusa para no sentirnos tan mal',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'DCD5D1157BAA68DFCC10FE4ECEFD9E26',
+    participant: undefined
+  },
+  messageTimestamp: 1699386218,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te está funcionando?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te está funcionando?',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08E1531D295D106C049',
+    participant: undefined
+  },
+  messageTimestamp: 1699386288,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orden',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB036EEA0C1B4C215950C',
+    participant: undefined
+  },
+  messageTimestamp: 1699386299,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'TAREA 📝 #2⚡\n' +
+        '\n' +
+        'FECHA:07/11/2023\n' +
+        '\n' +
+        'REPORTE: verificar consumo de jomba de 140hp en mina corozo\n' +
+        'HALLAZGOS: equipo trabajando \n' +
+        'SOLUCION:  se verifico el consumo del equipo encontrándose dentro de los parámetros, se verifico descarga de la misma y todo ok\n' +
+        'HORA INICIO:  11:00am\n' +
+        'HORA FINAL : 11:30am\n' +
+        'ORDEN: cerrada \n' +
+        '\n' +
+        'TECNICOS:  Elmer A/ Jamir R.',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA 📝 #2⚡\n' +
+    '\n' +
+    'FECHA:07/11/2023\n' +
+    '\n' +
+    'REPORTE: verificar consumo de jomba de 140hp en mina corozo\n' +
+    'HALLAZGOS: equipo trabajando \n' +
+    'SOLUCION:  se verifico el consumo del equipo encontrándose dentro de los parámetros, se verifico descarga de la misma y todo ok\n' +
+    'HORA INICIO:  11:00am\n' +
+    'HORA FINAL : 11:30am\n' +
+    'ORDEN: cerrada \n' +
+    '\n' +
+    'TECNICOS:  Elmer A/ Jamir R.',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D41705122B43958444',
+    participant: undefined
+  },
+  messageTimestamp: 1699386323,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orden',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AC22822E0890229163',
+    participant: undefined
+  },
+  messageTimestamp: 1699386339,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'TAREA   #  1\n' +
+        '\n' +
+        '07    11   2023\n' +
+        '\n' +
+        '\n' +
+        'REPORTE Resistencia de las  grillas R2B quemada en la power plant\n' +
+        '\n' +
+        'SOLUCIÓN Se desmontaje modulo de Resistencia para cambio',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA   #  1\n' +
+    '\n' +
+    '07    11   2023\n' +
+    '\n' +
+    '\n' +
+    'REPORTE Resistencia de las  grillas R2B quemada en la power plant\n' +
+    '\n' +
+    'SOLUCIÓN Se desmontaje modulo de Resistencia para cambio',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB089D2A3A1CBAE594D59',
+    participant: undefined
+  },
+  messageTimestamp: 1699386339,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ORDEN  Abierta \n' +
+        '\n' +
+        'Hora    8  :  00am    10  ;  05am \n' +
+        '\n' +
+        'TÉCNICOS J Puello  H Olaya',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ORDEN  Abierta \n' +
+    '\n' +
+    'Hora    8  :  00am    10  ;  05am \n' +
+    '\n' +
+    'TÉCNICOS J Puello  H Olaya',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CC4F239CD0F28B9957',
+    participant: undefined
+  },
+  messageTimestamp: 1699386434,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orden',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06DC4091744978A022B',
+    participant: undefined
+  },
+  messageTimestamp: 1699386453,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'TAREA   #   2\n' +
+        '\n' +
+        '7   11   2023\n' +
+        '\n' +
+        'REPORTE    R3    R4  limpieza \n' +
+        '\n' +
+        'SOLUCIÓN  Se hace limpieza y secado a cubículo de las grillas R3  y  R4\n' +
+        '\n' +
+        'ORDEN    Cerrada \n' +
+        '\n' +
+        'Hora   10  :   30am    11   :  00am \n' +
+        ' \n' +
+        'TÉCNICOS   J Puello    H Olaya',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA   #   2\n' +
+    '\n' +
+    '7   11   2023\n' +
+    '\n' +
+    'REPORTE    R3    R4  limpieza \n' +
+    '\n' +
+    'SOLUCIÓN  Se hace limpieza y secado a cubículo de las grillas R3  y  R4\n' +
+    '\n' +
+    'ORDEN    Cerrada \n' +
+    '\n' +
+    'Hora   10  :   30am    11   :  00am \n' +
+    ' \n' +
+    'TÉCNICOS   J Puello    H Olaya',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E231DE6C8C9439C5C5',
+    participant: undefined
+  },
+  messageTimestamp: 1699386515,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'cancelar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cancelar',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D85EB42A583F7EEF23',
+    participant: undefined
+  },
+  messageTimestamp: 1699386518,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orden',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07B781D7110BE70D108',
+    participant: undefined
+  },
+  messageTimestamp: 1699386530,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'TAREA   #   2\n' +
+      '\n' +
+      '7   11   2023\n' +
+      '\n' +
+      'REPORTE    R3    R4  limpieza \n' +
+      '\n' +
+      'SOLUCIÓN  Se hace limpieza y secado a cubículo de las grillas R3  y  R4\n' +
+      '\n' +
+      'ORDEN    Cerrada \n' +
+      '\n' +
+      'Hora   10  :   30am    11   :  00am \n' +
+      ' \n' +
+      'TÉCNICOS   J Puello    H Olaya',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA   #   2\n' +
+    '\n' +
+    '7   11   2023\n' +
+    '\n' +
+    'REPORTE    R3    R4  limpieza \n' +
+    '\n' +
+    'SOLUCIÓN  Se hace limpieza y secado a cubículo de las grillas R3  y  R4\n' +
+    '\n' +
+    'ORDEN    Cerrada \n' +
+    '\n' +
+    'Hora   10  :   30am    11   :  00am \n' +
+    ' \n' +
+    'TÉCNICOS   J Puello    H Olaya',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573188267719@s.whatsapp.net',
+    fromMe: false,
+    id: '719DC049C575FCE37AF1239B6C57D06A',
+    participant: undefined
+  },
+  messageTimestamp: 1699387058,
+  pushName: 'Altavista Del Río Apiros',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35258802_636213871920081_788801624785032816_n.enc?ccb=11-4&oh=01_AdTZiIBk9UaY3cnMKGTdCqYY1QcDCTQL_eAri0wvrE_0Cw&oe=65720BEC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 55,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35258802_636213871920081_788801624785032816_n.enc?ccb=11-4&oh=01_AdTZiIBk9UaY3cnMKGTdCqYY1QcDCTQL_eAri0wvrE_0Cw&oe=65720BEC&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Altavista Del Río Apiros',
+  body: '_event_voice_note__c0ef1cc1-741a-47a7-8e77-15ec6dc9621a',
+  from: '573188267719'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DC6A7A0698C532935C',
+    participant: undefined
+  },
+  messageTimestamp: 1699388953,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B5D177C32EB63D6B7C',
+    participant: undefined
+  },
+  messageTimestamp: 1699388957,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Yo no cambie nada',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo no cambie nada',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00660703684C585608F',
+    participant: undefined
+  },
+  messageTimestamp: 1699388972,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si no estan ocultas debes borrarlas porque aja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si no estan ocultas debes borrarlas porque aja',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05C8220F0EE4F161F19',
+    participant: undefined
+  },
+  messageTimestamp: 1699388979,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'yo las pegaba donde sea',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'yo las pegaba donde sea',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BE2C9CA399EAA0B9B5',
+    participant: undefined
+  },
+  messageTimestamp: 1699389073,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m236/up-oil-image-4529edee-5371-4f20-b0c6-5a39ff4f860c?ccb=9-4&oh=01_AdRkH2Ef2VAtmAT_7my_lpVEz6VWu2Ifx4IrF7HZV6zUfg&oe=65721325&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Ese dizque -1 no lo puse yo',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 223,
+      width: 677,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m236/up-oil-image-4529edee-5371-4f20-b0c6-5a39ff4f860c?ccb=9-4&oh=01_AdRkH2Ef2VAtmAT_7my_lpVEz6VWu2Ifx4IrF7HZV6zUfg&oe=65721325&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__b58b6282-38c0-48ad-85f2-0b6ef7a53966',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05194C70B2A316F9615',
+    participant: undefined
+  },
+  messageTimestamp: 1699389073,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'orra esa mierda',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'orra esa mierda',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09C38CB8E6577C698AB',
+    participant: undefined
+  },
+  messageTimestamp: 1699389082,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    editedMessage: FutureProofMessage { message: [Message] }
+  },
+  body: '',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02600FDC97EE5A4A776',
+    participant: undefined
+  },
+  messageTimestamp: 1699389105,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-bc77e576-9a44-484a-837c-a2160252a48f?ccb=9-4&oh=01_AdSbpTAk8ANg4tSv6i55b2LxP4VGPtfS5gpEUqjdkXd82w&oe=65720A4E&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Todas las que no estan ocultas las puedes borrar',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 171,
+      width: 359,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m235/up-oil-image-bc77e576-9a44-484a-837c-a2160252a48f?ccb=9-4&oh=01_AdSbpTAk8ANg4tSv6i55b2LxP4VGPtfS5gpEUqjdkXd82w&oe=65720A4E&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__6d388eb2-819a-4623-9194-93f0c0ae5cbc',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0732D37EF0E277AC700',
+    participant: undefined
+  },
+  messageTimestamp: 1699389112,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Son las que tu me mandabas y yo iba pegando',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Son las que tu me mandabas y yo iba pegando',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F65094FAFE45DACB01',
+    participant: undefined
+  },
+  messageTimestamp: 1699389120,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Esas se me pasó borrarlas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Esas se me pasó borrarlas',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0530F155B624355FCFF',
+    participant: undefined
+  },
+  messageTimestamp: 1699389251,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jajajaja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jajajaja',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C54393F11EDC6FCDA5',
+    participant: undefined
+  },
+  messageTimestamp: 1699389290,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sorry :3, me enredé jaja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sorry :3, me enredé jaja',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB001D4243C2388EEC6CE',
+    participant: undefined
+  },
+  messageTimestamp: 1699389405,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Nena y si mañana me vienes a buscar, es que hay reunion presencial :3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Nena y si mañana me vienes a buscar, es que hay reunion presencial :3',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '6492CAB7E594F4C85E',
+    participant: undefined
+  },
+  messageTimestamp: 1699389636,
+  pushName: '573017406017',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573017406017'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '6492CAB7E594F4C85E',
+    participant: undefined
+  },
+  messageTimestamp: 1699389636,
+  pushName: '573017406017',
+  broadcast: false,
+  message: Message {
+    conversation: 'A continuación le comparto instructivo para hacer la redención',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Drummond En Navidad By JUJU',
+  body: 'A continuación le comparto instructivo para hacer la redención',
+  from: '573017406017'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '6492CAB7E594F4C85E',
+    participant: undefined
+  },
+  messageTimestamp: 1699389637,
+  pushName: '573017406017',
+  broadcast: false,
+  verifiedBizName: 'Drummond En Navidad By JUJU',
+  message: Message {
+    conversation: 'A continuación le comparto instructivo para hacer la redención',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'A continuación le comparto instructivo para hacer la redención',
+  from: '573017406017'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '2E74BABDE7FEB5A6DE',
+    participant: undefined
+  },
+  messageTimestamp: 1699389649,
+  pushName: '573017406017',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/d/f/AmIPOCqnqcytN8UkO5-IHTAFt4yjQk4PHsxn5u4gRj95.enc',
+      mimetype: 'image/jpeg',
+      caption: 'Captura.PNG',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 176,
+      width: 754,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/30978646_849251346935584_2492119257099444462_n.enc?ccb=11-4&oh=01_AdRDIeGoZB2cDFJs-M_GY30CZEz1jCoi9WOHU1nRp6uXxA&oe=657208C1&_nc_sid=e6ed6c',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Drummond En Navidad By JUJU',
+  body: '_event_media__4d953252-e103-4583-944e-4cec0c8ccf95',
+  from: '573017406017'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F8DA185689E6F59155',
+    participant: undefined
+  },
+  messageTimestamp: 1699389778,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Camilo esta de descanso',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Camilo esta de descanso',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB011F4C35B39E9ADC5C8',
+    participant: undefined
+  },
+  messageTimestamp: 1699389780,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'llega mañana',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'llega mañana',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB042126D35F4D4A5085D',
+    participant: undefined
+  },
+  messageTimestamp: 1699389789,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Acá está Lavid',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Acá está Lavid',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D21F5EA98CF4C49CC9',
+    participant: undefined
+  },
+  messageTimestamp: 1699389794,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Pero como el duerme alla',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero como el duerme alla',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D2825310EAD41E86B4',
+    participant: undefined
+  },
+  messageTimestamp: 1699389808,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mañana no se devuelve pa pribbenow',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mañana no se devuelve pa pribbenow',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01FA3862ED5F34E4125',
+    participant: undefined
+  },
+  messageTimestamp: 1699389886,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Arajoooooo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Arajoooooo',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03D0CF304F7E0A0AA95',
+    participant: undefined
+  },
+  messageTimestamp: 1699389896,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'La 4Runner',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'La 4Runner',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB029B88541CD50F6113B',
+    participant: undefined
+  },
+  messageTimestamp: 1699389949,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si hay pero da flojera madrugar mucho :(',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si hay pero da flojera madrugar mucho :(',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'DA2A8469869644F93AD2D42A673184A0',
+    participant: undefined
+  },
+  messageTimestamp: 1699390268,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ojalá te funcione full',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ojalá te funcione full',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'B23A1346BF64E5C57DF4DDF2722A14A8',
+    participant: undefined
+  },
+  messageTimestamp: 1699390284,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Se le pueden pasar instrucciones extra',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Se le pueden pasar instrucciones extra',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'A0D1F491B918E3019A69122A403BB7E7',
+    participant: undefined
+  },
+  messageTimestamp: 1699390289,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para que corrija cosas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para que corrija cosas',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '56EDD9FAD57A73CFB67BB768DFC1F7E6',
+    participant: undefined
+  },
+  messageTimestamp: 1699390307,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Las instrucciones actuales son que corrija fallas ortográficas y eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Las instrucciones actuales son que corrija fallas ortográficas y eso',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD4E8AA94007F716AFF63A28224F15E9',
+    participant: undefined
+  },
+  messageTimestamp: 1699390328,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero se le puede decir que verifique si tiene sentido la descripción y en caso de que no, la corrija',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero se le puede decir que verifique si tiene sentido la descripción y en caso de que no, la corrija',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'FB3F39EC1AE3B4E5575655598852ED93',
+    participant: undefined
+  },
+  messageTimestamp: 1699390331,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cómo cuáles?',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo cuáles?',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '8C571C8F668903EB45C0219DD3C45457',
+    participant: undefined
+  },
+  messageTimestamp: 1699390444,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Claro, porque no tiene esa info',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Claro, porque no tiene esa info',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '793BEAA7CE71FD6AF4939069029C7359',
+    participant: undefined
+  },
+  messageTimestamp: 1699390456,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para eso toca que te manden mejor la info',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para eso toca que te manden mejor la info',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '8F6D24B4E80E55D067C40DA78E4AA6A2',
+    participant: undefined
+  },
+  messageTimestamp: 1699390485,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ahhh no no, es que no está diseñado para que haga eso',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ahhh no no, es que no está diseñado para que haga eso',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'B06F05DBA5734C14903A3980F267A4E4',
+    participant: undefined
+  },
+  messageTimestamp: 1699390492,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tendrías que poner las horas en el mensaje',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tendrías que poner las horas en el mensaje',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '6945C4C0F19B5D70511F51949A2B4106',
+    participant: undefined
+  },
+  messageTimestamp: 1699390591,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/21575918_1052365379230675_3074859791701524414_n.enc?ccb=11-4&oh=01_AdS5EOWNXNCJ1X81C6sVTwk-TgeyMQ7p4s_s0-pPdEFcvg&oe=657224F0&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 71,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/21575918_1052365379230675_3074859791701524414_n.enc?ccb=11-4&oh=01_AdS5EOWNXNCJ1X81C6sVTwk-TgeyMQ7p4s_s0-pPdEFcvg&oe=657224F0&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__2bd3ec96-ae2a-44ff-8e7b-7e2beced6655',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'F0DB7924A477C0FAB79DB3B53835E0F5',
+    participant: undefined
+  },
+  messageTimestamp: 1699390605,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32282386_307703708735157_2408838409728511945_n.enc?ccb=11-4&oh=01_AdRABNLMJSS8gF1Gf3ALjQf1-cTSUugXyxeeAzQF2uVjDg&oe=657210D5&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 11,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32282386_307703708735157_2408838409728511945_n.enc?ccb=11-4&oh=01_AdRABNLMJSS8gF1Gf3ALjQf1-cTSUugXyxeeAzQF2uVjDg&oe=657210D5&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__b261150c-92fc-41f6-8b58-a602f9f5918b',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: 'DC70DF19C2D78560C83D94108E698705',
+    participant: undefined
+  },
+  messageTimestamp: 1699390638,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/17635910_990939465314942_2430713005702051741_n.enc?ccb=11-4&oh=01_AdRr3BtGsLrthykVTa-hUBLitv_wjqEcPeip8m6VewoErQ&oe=6571FB72&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 28,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/17635910_990939465314942_2430713005702051741_n.enc?ccb=11-4&oh=01_AdRr3BtGsLrthykVTa-hUBLitv_wjqEcPeip8m6VewoErQ&oe=6571FB72&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__cf89a151-7635-4a03-b548-bc44036e84b9',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0685713C94127A9318A',
+    participant: undefined
+  },
+  messageTimestamp: 1699391001,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-cdd32c76-c862-4242-b6e7-f7564ff355b6?ccb=9-4&oh=01_AdS0ivItRAmRvgzooZbD6o2oqsMEwHdMY98s1NqIWRrKAw&oe=657219C9&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 92,
+      width: 829,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m238/up-oil-image-cdd32c76-c862-4242-b6e7-f7564ff355b6?ccb=9-4&oh=01_AdS0ivItRAmRvgzooZbD6o2oqsMEwHdMY98s1NqIWRrKAw&oe=657219C9&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__f2b1f018-6237-4881-8769-ec19abdf848c',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB078ACB4E3A7F720AFBD',
+    participant: undefined
+  },
+  messageTimestamp: 1699391016,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'habla',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'habla',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0615DCF9974052F43B2',
+    participant: undefined
+  },
+  messageTimestamp: 1699391049,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ps como el tuyo esta adelantao o una cosa asi',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ps como el tuyo esta adelantao o una cosa asi',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08A8998573A0BAC68ED',
+    participant: undefined
+  },
+  messageTimestamp: 1699391060,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'le estaras poniendo las 4:55',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'le estaras poniendo las 4:55',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DC5400373771ADC42A',
+    participant: undefined
+  },
+  messageTimestamp: 1699391062,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no se',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no se',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B6FFFA84BD0E2DD9D0',
+    participant: undefined
+  },
+  messageTimestamp: 1699391071,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mi cuenta no esta dañada',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mi cuenta no esta dañada',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08E053889D61F738600',
+    participant: undefined
+  },
+  messageTimestamp: 1699391072,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: ':3',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: ':3',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03420EF995BB3F6199E',
+    participant: undefined
+  },
+  messageTimestamp: 1699391078,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jajajajajajaja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jajajajajajaja',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03BFF338B425BD8DB0B',
+    participant: undefined
+  },
+  messageTimestamp: 1699391095,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mama se dañó',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mama se dañó',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB046E670889867B1E733',
+    participant: undefined
+  },
+  messageTimestamp: 1699391099,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te toco esperar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'te toco esperar',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02419269A0D0F144CDC',
+    participant: undefined
+  },
+  messageTimestamp: 1699391104,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'deja eso ahi y lo cargas mas tarde',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'deja eso ahi y lo cargas mas tarde',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA5B3C34BDFE76D0516',
+    participant: undefined
+  },
+  messageTimestamp: 1699391107,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola prima',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola prima',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A01B83B7FBAD7555A0',
+    participant: undefined
+  },
+  messageTimestamp: 1699391205,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-14aa1f6f-5c9f-47ee-9c77-4301eb4c2aa2?ccb=9-4&oh=01_AdSIwdzqEd8oXg9iKA1ct36owYIErA4naLdMHa-D1pr-Eg&oe=657205C7&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Ya uno no le puede pedir un favor, viste tu jajajajaja',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 833,
+      width: 1103,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-14aa1f6f-5c9f-47ee-9c77-4301eb4c2aa2?ccb=9-4&oh=01_AdSIwdzqEd8oXg9iKA1ct36owYIErA4naLdMHa-D1pr-Eg&oe=657205C7&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      viewOnce: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__ade519c8-d46a-4c14-bba4-073f2361ea67',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB035592DE5E0326678A4',
+    participant: undefined
+  },
+  messageTimestamp: 1699391217,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Las dañaste tu',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Las dañaste tu',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C817E3A20C452EEE70',
+    participant: undefined
+  },
+  messageTimestamp: 1699391220,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'tu mandabas eso',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tu mandabas eso',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08B96076E1104675BEA',
+    participant: undefined
+  },
+  messageTimestamp: 1699391221,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no yo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no yo',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CF97E64DEA468F3754',
+    participant: undefined
+  },
+  messageTimestamp: 1699391222,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '-_-',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '-_-',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08CA9C7F9F8B02D5288',
+    participant: undefined
+  },
+  messageTimestamp: 1699391258,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cule video raro mk jajajaja',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cule video raro mk jajajaja',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573162861715@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02A7367681F4F98AD2B',
+    participant: undefined
+  },
+  messageTimestamp: 1699391265,
+  pushName: 'Andrés Fuentes',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Dizque el huevo cocido',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dizque el huevo cocido',
+  from: '573162861715'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04A7574BDE067ACCA46',
+    participant: undefined
+  },
+  messageTimestamp: 1699391690,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    conversation: 'Orden',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Orden',
+  from: '573185605308'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ed7f073c-e63c-4c64-aaa2-9a17321d2ac0',
+  keyword: 'key_e4d0fb67-4235-477a-87c5-64d4548c1083',
+  answer: 'A continuación envía la información del trabajo realizado o la palabra *cancelar* para cancelar la orden:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c1c23972a7921ff79b77abc122f9a234'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573185605308@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09B019E7A57941DC261',
+    participant: undefined
+  },
+  messageTimestamp: 1699391705,
+  pushName: 'Clerk Eléctrico PBN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'TAREA   #  3\n' +
+        '\n' +
+        '7  11  2023\n' +
+        '\n' +
+        'REPORTE Minibreakers sin fijar adentro de la caja de fotocontrol de luces load out 2\n' +
+        '\n' +
+        'SOLUCIÓN Se fija minibreakers y fusiblera en el riel \n' +
+        '\n' +
+        'ORDEN Cerrada \n' +
+        '\n' +
+        'Hora    1   :   40pm    2  :   10pm \n' +
+        '\n' +
+        'TÉCNICOS     J Puello     H Olaya',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'TAREA   #  3\n' +
+    '\n' +
+    '7  11  2023\n' +
+    '\n' +
+    'REPORTE Minibreakers sin fijar adentro de la caja de fotocontrol de luces load out 2\n' +
+    '\n' +
+    'SOLUCIÓN Se fija minibreakers y fusiblera en el riel \n' +
+    '\n' +
+    'ORDEN Cerrada \n' +
+    '\n' +
+    'Hora    1   :   40pm    2  :   10pm \n' +
+    '\n' +
+    'TÉCNICOS     J Puello     H Olaya',
+  from: '573185605308'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164688254@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F8D62D187DAD97D94E',
+    participant: undefined
+  },
+  messageTimestamp: 1699392082,
+  pushName: 'Raul Olmos',
+  broadcast: false,
+  message: Message {
+    conversation: 'Señorita Estefanía',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Señorita Estefanía',
+  from: '573164688254'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573164688254@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB012E22E1C4FDC74DE0B',
+    participant: undefined
+  },
+  messageTimestamp: 1699392088,
+  pushName: 'Raul Olmos',
+  broadcast: false,
+  message: Message {
+    conversation: 'Le recuerdo mi casco por favor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Le recuerdo mi casco por favor',
+  from: '573164688254'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '185513FD12071C343B',
+    participant: undefined
+  },
+  messageTimestamp: 1699392098,
+  pushName: '573017406017',
+  broadcast: false,
+  message: Message {
+    conversation: 'Le podemos ayudar en algo más?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Drummond En Navidad By JUJU',
+  body: 'Le podemos ayudar en algo más?',
+  from: '573017406017'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AFE9EAE5D98FCA91420',
+    participant: undefined
+  },
+  messageTimestamp: 1699392580,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como estás',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como estás',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3A236D6753771F9B9D2B',
+    participant: undefined
+  },
+  messageTimestamp: 1699392583,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mi amor bello',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mi amor bello',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA5567A576CC31BAC6C',
+    participant: undefined
+  },
+  messageTimestamp: 1699392591,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te paso a saludar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te paso a saludar',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3A95E634DACBA68C6D69',
+    participant: undefined
+  },
+  messageTimestamp: 1699392597,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tengo ratos sin saber de ti',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo ratos sin saber de ti',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC1650829E8BA9B3BFE',
+    participant: undefined
+  },
+  messageTimestamp: 1699392632,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Prima y con mucha pena porque el día que cumpliste años',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Prima y con mucha pena porque el día que cumpliste años',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD3F2815818B10F43DC',
+    participant: undefined
+  },
+  messageTimestamp: 1699392636,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Yo tenía problemas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo tenía problemas',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACB369EF7F2916EAB94',
+    participant: undefined
+  },
+  messageTimestamp: 1699392640,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Com adil',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Com adil',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEE37D8896D411AB51E',
+    participant: undefined
+  },
+  messageTimestamp: 1699392646,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y a mi se me pasó',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y a mi se me pasó',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6F9DD5403D11B831CF',
+    participant: undefined
+  },
+  messageTimestamp: 1699392662,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Primita 🫠',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Primita 🫠',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9F10E46DF17E92115C',
+    participant: undefined
+  },
+  messageTimestamp: 1699392675,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero te quiero mucho mucho espero que estés muy bien',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero te quiero mucho mucho espero que estés muy bien',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573148578870@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5CD6A6CE0C2DAAE2DC',
+    participant: undefined
+  },
+  messageTimestamp: 1699392685,
+  pushName: 'Andrea',
+  broadcast: false,
+  message: Message {
+    conversation: '❤️❤️besitos de parte mía y de los niños',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '❤️❤️besitos de parte mía y de los niños',
+  from: '573148578870'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '58F9A4F0875154577AECE6614638674B',
+    participant: undefined
+  },
+  messageTimestamp: 1699392726,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '75CB6750AA73D52A5290C13CBED2CBA7',
+    participant: undefined
+  },
+  messageTimestamp: 1699392735,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Debes estar atareada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Debes estar atareada',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573024276663@s.whatsapp.net',
+    fromMe: false,
+    id: '44A5D1DA14A5E27A1A59BC78B830F92E',
+    participant: undefined
+  },
+  messageTimestamp: 1699392748,
+  pushName: '💻⚛️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero contestame solo si puedo parar el bot un momento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero contestame solo si puedo parar el bot un momento',
+  from: '573024276663'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573017406017@s.whatsapp.net',
+    fromMe: false,
+    id: '2B59649859F2AB5899',
+    participant: undefined
+  },
+  messageTimestamp: 1699393278,
+  pushName: '573017406017',
+  broadcast: false,
+  message: Message {
+    conversation: '¡Hola!, entiendo te hayas ocupado, espero que hayas vivido una experiencia maravillosa 🤩.\n' +
+      '\n' +
+      'Recuerda que en cualquier momento puedes volver a comunicarte conmigo, estaré encantando de atenderte nuevamente.\n' +
+      '\n' +
+      'Hasta pronto, ¡feliz día! 👋😊',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Drummond En Navidad By JUJU',
+  body: '¡Hola!, entiendo te hayas ocupado, espero que hayas vivido una experiencia maravillosa 🤩.\n' +
+    '\n' +
+    'Recuerda que en cualquier momento puedes volver a comunicarte conmigo, estaré encantando de atenderte nuevamente.\n' +
+    '\n' +
+    'Hasta pronto, ¡feliz día! 👋😊',
+  from: '573017406017'
+}
