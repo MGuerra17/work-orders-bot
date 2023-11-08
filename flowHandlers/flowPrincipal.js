@@ -1,6 +1,6 @@
 import { getOrderArray } from '../services/openai.js'
 import { adjustDateRange, createDateTimeObject, getDateTimeInMilitaryFormat } from '../utils/dates.js'
-import sheets, { SHEET_ID } from '../services/googleSheets.js'
+import sheets from '../services/googleSheets.js'
 
 export const flowPrincipalHandler = async (ctx, { endFlow, flowDynamic }) => {
   if (ctx.body.trim().toLowerCase() === 'cancelar') return endFlow({ body: '🚫 Orden cancelada' })
@@ -44,7 +44,7 @@ export const flowPrincipalHandler = async (ctx, { endFlow, flowDynamic }) => {
 
   try {
     sheets.spreadsheets.values.append({
-      spreadsheetId: SHEET_ID,
+      spreadsheetId: process.env.SHEET_ID,
       range: 'Data!A2:F2',
       insertDataOption: 'INSERT_ROWS',
       valueInputOption: 'RAW',

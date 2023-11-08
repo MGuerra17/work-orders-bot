@@ -2,7 +2,7 @@
 
 /config/sheets_secret.json
 
-/bot_sessions
+/bot_sessions/*
 
 .env
 
