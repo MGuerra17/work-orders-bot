@@ -1,9 +1,9 @@
-/node_modules
+node_modules/
+
+bot_sessions/
 
 /config/sheets_secret.json
 
-/bot_sessions/*
-
 .env
 
-.vscode
+/.vscode/settings.json
